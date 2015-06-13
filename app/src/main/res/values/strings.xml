@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">memoria externa</string>
+    <string name="mensaje1">Escribe algo</string>
+    <string name="action_settings">Settings</string>
+    <string name="Guardar">Guardar</string>
+    <string name="Abrir">Abrir</string>
+
+</resources>
